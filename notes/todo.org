@@ -1,0 +1,9 @@
+#+SEQ_TODO: TODO DOING | WAIT DONE WONTDO
+* Test::Case
+** DONE description
+** DONE prefix
+** DONE POD
+** DONE Tests
+** DOING Distro
+** Default description = oneliner stringification of setup
+** Loop over multi-values e.g. is_voucher_only

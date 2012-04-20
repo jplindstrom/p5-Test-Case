@@ -247,6 +247,13 @@ L<http://search.cpan.org/dist/Test-Case/>
 =back
 
 
+=head1 CONTRIBUTE
+
+The source for this module is on GitHub: https://github.com/jplindstrom/p5-Test-Case
+
+Patches welcome, etc.
+
+
 =head1 AUTHOR
 
 Johan Lindstrom - C<johanl@cpan.org> on behalf of

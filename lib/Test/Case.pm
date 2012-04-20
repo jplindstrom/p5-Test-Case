@@ -118,7 +118,7 @@ being run.
 
 C<test_each_case> will help you with this by using the case C<description>
 and C<prefix>. But you'll also find it useful to C<note> the name and
-value of important varaiables in the test code.
+value of important variables in the test code.
 
 =head1 EXAMPLE
 
